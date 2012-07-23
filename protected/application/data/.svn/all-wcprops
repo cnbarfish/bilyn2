@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/65/trunk/bilyn2/protected/application/data
+END
+bilyn.schema.mysql4_bak.sql
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/65/trunk/bilyn2/protected/application/data/bilyn.schema.mysql4_bak.sql
+END
+bilyn.schema.mysql2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/65/trunk/bilyn2/protected/application/data/bilyn.schema.mysql2.sql
+END
+bilyn.schema.mysql3.sql
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/65/trunk/bilyn2/protected/application/data/bilyn.schema.mysql3.sql
+END
+bilyn.schema.mysql4.sql
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/65/trunk/bilyn2/protected/application/data/bilyn.schema.mysql4.sql
+END
+bilyn.schema.mysql_insert.sql
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/65/trunk/bilyn2/protected/application/data/bilyn.schema.mysql_insert.sql
+END
+bilyn.schema.mysql6.sql
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/65/trunk/bilyn2/protected/application/data/bilyn.schema.mysql6.sql
+END
+bilyn.schema.mysql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/65/trunk/bilyn2/protected/application/data/bilyn.schema.mysql.sql
+END

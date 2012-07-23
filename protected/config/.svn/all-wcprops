@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/65/trunk/bilyn2/protected/config
+END
+test.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/65/trunk/bilyn2/protected/config/test.php
+END
+console.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/65/trunk/bilyn2/protected/config/console.php
+END
+params.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/65/trunk/bilyn2/protected/config/params.php
+END
+main.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/65/trunk/bilyn2/protected/config/main.php
+END

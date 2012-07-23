@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/65/trunk/bilyn2/protected/extensions/bootstrap/widgets
+END
+BootListView.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/65/trunk/bilyn2/protected/extensions/bootstrap/widgets/BootListView.php
+END
+BootThumbnails.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/65/trunk/bilyn2/protected/extensions/bootstrap/widgets/BootThumbnails.php
+END
+BootAlert.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/65/trunk/bilyn2/protected/extensions/bootstrap/widgets/BootAlert.php
+END
+BootNavbar.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/65/trunk/bilyn2/protected/extensions/bootstrap/widgets/BootNavbar.php
+END
+BootButton.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/65/trunk/bilyn2/protected/extensions/bootstrap/widgets/BootButton.php
+END
+BootCarousel.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/65/trunk/bilyn2/protected/extensions/bootstrap/widgets/BootCarousel.php
+END
+BootGridView.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/65/trunk/bilyn2/protected/extensions/bootstrap/widgets/BootGridView.php
+END
+BootWidget.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/65/trunk/bilyn2/protected/extensions/bootstrap/widgets/BootWidget.php
+END
+BootButtonGroup.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/65/trunk/bilyn2/protected/extensions/bootstrap/widgets/BootButtonGroup.php
+END
+BootButtonColumn.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/65/trunk/bilyn2/protected/extensions/bootstrap/widgets/BootButtonColumn.php
+END
+BootBreadcrumbs.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/65/trunk/bilyn2/protected/extensions/bootstrap/widgets/BootBreadcrumbs.php
+END
+BootModal.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/65/trunk/bilyn2/protected/extensions/bootstrap/widgets/BootModal.php
+END
+BootDropdown.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/65/trunk/bilyn2/protected/extensions/bootstrap/widgets/BootDropdown.php
+END
+BootTabbable.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/65/trunk/bilyn2/protected/extensions/bootstrap/widgets/BootTabbable.php
+END
+BootHero.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/65/trunk/bilyn2/protected/extensions/bootstrap/widgets/BootHero.php
+END
+BootDetailView.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/65/trunk/bilyn2/protected/extensions/bootstrap/widgets/BootDetailView.php
+END
+BootPager.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/65/trunk/bilyn2/protected/extensions/bootstrap/widgets/BootPager.php
+END
+BootActiveForm.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/65/trunk/bilyn2/protected/extensions/bootstrap/widgets/BootActiveForm.php
+END
+BootBaseMenu.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/65/trunk/bilyn2/protected/extensions/bootstrap/widgets/BootBaseMenu.php
+END
+BootProgress.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/65/trunk/bilyn2/protected/extensions/bootstrap/widgets/BootProgress.php
+END
+BootMenu.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/65/trunk/bilyn2/protected/extensions/bootstrap/widgets/BootMenu.php
+END
+BootTypeahead.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/65/trunk/bilyn2/protected/extensions/bootstrap/widgets/BootTypeahead.php
+END

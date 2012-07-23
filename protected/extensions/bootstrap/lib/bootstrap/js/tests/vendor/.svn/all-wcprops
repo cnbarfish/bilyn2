@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/65/trunk/bilyn2/protected/extensions/bootstrap/lib/bootstrap/js/tests/vendor
+END
+qunit.css
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/65/trunk/bilyn2/protected/extensions/bootstrap/lib/bootstrap/js/tests/vendor/qunit.css
+END
+jquery.js
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/65/trunk/bilyn2/protected/extensions/bootstrap/lib/bootstrap/js/tests/vendor/jquery.js
+END
+qunit.js
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/65/trunk/bilyn2/protected/extensions/bootstrap/lib/bootstrap/js/tests/vendor/qunit.js
+END

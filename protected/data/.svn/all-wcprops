@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/65/trunk/bilyn2/protected/data
+END
+schema.mysql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/65/trunk/bilyn2/protected/data/schema.mysql.sql
+END
+dbgen.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/65/trunk/bilyn2/protected/data/dbgen.php
+END
+schema.sqlite.sql
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/65/trunk/bilyn2/protected/data/schema.sqlite.sql
+END

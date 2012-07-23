@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/65/trunk/bilyn2/protected/application/auth
+END
+BAuthManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/65/trunk/bilyn2/protected/application/auth/BAuthManager.php
+END
+BAuthTemplate1.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/65/trunk/bilyn2/protected/application/auth/BAuthTemplate1.php
+END
+BAuthItem.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/65/trunk/bilyn2/protected/application/auth/BAuthItem.php
+END
+BOperation.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/65/trunk/bilyn2/protected/application/auth/BOperation.php
+END

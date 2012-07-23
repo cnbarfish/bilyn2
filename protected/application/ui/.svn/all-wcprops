@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/65/trunk/bilyn2/protected/application/ui
+END
+BUIBase.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/66/trunk/bilyn2/protected/application/ui/BUIBase.php
+END
+BUIScreen.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/66/trunk/bilyn2/protected/application/ui/BUIScreen.php
+END
+BUIOperation.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/66/trunk/bilyn2/protected/application/ui/BUIOperation.php
+END
+BUIService.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/66/trunk/bilyn2/protected/application/ui/BUIService.php
+END
+BUIApp.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/66/trunk/bilyn2/protected/application/ui/BUIApp.php
+END
+BMenuManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/65/trunk/bilyn2/protected/application/ui/BMenuManager.php
+END
+BUIServiceApp.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/66/trunk/bilyn2/protected/application/ui/BUIServiceApp.php
+END
+BMenuBootStrap.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/65/trunk/bilyn2/protected/application/ui/BMenuBootStrap.php
+END
+BUINode.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/66/trunk/bilyn2/protected/application/ui/BUINode.php
+END
+BUIScreenFlow.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/66/trunk/bilyn2/protected/application/ui/BUIScreenFlow.php
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/65/trunk/bilyn2/protected/tests/unit
+END
+LookupTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/65/trunk/bilyn2/protected/tests/unit/LookupTest.php
+END
+TagTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/65/trunk/bilyn2/protected/tests/unit/TagTest.php
+END
+UserTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/65/trunk/bilyn2/protected/tests/unit/UserTest.php
+END
+CommentTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/65/trunk/bilyn2/protected/tests/unit/CommentTest.php
+END
+PostTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/65/trunk/bilyn2/protected/tests/unit/PostTest.php
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/65/trunk/bilyn2/protected/application/ui/screen
+END
+BScreenIndex.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/66/trunk/bilyn2/protected/application/ui/screen/BScreenIndex.php
+END
+BScreenAddServiceApp.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/65/trunk/bilyn2/protected/application/ui/screen/BScreenAddServiceApp.php
+END
+BScreenCreateServiceMeta.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/65/trunk/bilyn2/protected/application/ui/screen/BScreenCreateServiceMeta.php
+END
+BScreenService.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/65/trunk/bilyn2/protected/application/ui/screen/BScreenService.php
+END
+BScreenJoinService.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/65/trunk/bilyn2/protected/application/ui/screen/BScreenJoinService.php
+END
+BScreenServiceApp.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/65/trunk/bilyn2/protected/application/ui/screen/BScreenServiceApp.php
+END

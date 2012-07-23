@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/65/trunk/bilyn2/protected/application/ui/form/model
+END
+CreateServiceFormModel.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/65/trunk/bilyn2/protected/application/ui/form/model/CreateServiceFormModel.php
+END
+SignupFormModel.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/65/trunk/bilyn2/protected/application/ui/form/model/SignupFormModel.php
+END
+LoginFormModel.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/65/trunk/bilyn2/protected/application/ui/form/model/LoginFormModel.php
+END

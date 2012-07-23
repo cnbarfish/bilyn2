@@ -1,0 +1,28 @@
+pt1,pt2 {
+	font-weight: bold;
+	color: #111;
+}
+
+pt1 {
+	font-size: 2.5em;
+	line-height: 1;
+	margin-bottom: 0.5em;
+	margin-left:0px;
+	color:#080;
+}
+
+pt2 {
+	font-size: 1.5em;
+	line-height: 2;
+	margin-bottom: 0.5em;
+	color:#999;
+}
+
+#leftbar
+{
+	padding: 0 0 20px 0px;
+	border-right:thin double lightblue;
+	margin-top:0px;
+	margin-left:-20px;
+}
+

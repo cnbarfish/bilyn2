@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/65/trunk/bilyn2/protected/tests/functional
+END
+CommentTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/65/trunk/bilyn2/protected/tests/functional/CommentTest.php
+END
+SiteTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/65/trunk/bilyn2/protected/tests/functional/SiteTest.php
+END
+PostTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/65/trunk/bilyn2/protected/tests/functional/PostTest.php
+END

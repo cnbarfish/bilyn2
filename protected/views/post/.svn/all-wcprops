@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/65/trunk/bilyn2/protected/views/post
+END
+_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/65/trunk/bilyn2/protected/views/post/_view.php
+END
+view.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/65/trunk/bilyn2/protected/views/post/view.php
+END
+update.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/65/trunk/bilyn2/protected/views/post/update.php
+END
+_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/65/trunk/bilyn2/protected/views/post/_form.php
+END
+create.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/65/trunk/bilyn2/protected/views/post/create.php
+END
+_comments.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/65/trunk/bilyn2/protected/views/post/_comments.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/65/trunk/bilyn2/protected/views/post/index.php
+END
+admin.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/65/trunk/bilyn2/protected/views/post/admin.php
+END

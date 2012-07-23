@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/65/trunk/bilyn2/protected/models
+END
+BMApplicationVisibility.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/65/trunk/bilyn2/protected/models/BMApplicationVisibility.php
+END
+BMUser.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/65/trunk/bilyn2/protected/models/BMUser.php
+END
+BMServiceCircleUser.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/65/trunk/bilyn2/protected/models/BMServiceCircleUser.php
+END
+BMAuthItemType.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/65/trunk/bilyn2/protected/models/BMAuthItemType.php
+END
+BMServiceCircle.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/65/trunk/bilyn2/protected/models/BMServiceCircle.php
+END
+BMServiceServiceType.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/65/trunk/bilyn2/protected/models/BMServiceServiceType.php
+END
+BMServiceApplication.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/65/trunk/bilyn2/protected/models/BMServiceApplication.php
+END
+BMApplicationOperation.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/65/trunk/bilyn2/protected/models/BMApplicationOperation.php
+END
+BMServiceApplicationAuthItemUser.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/65/trunk/bilyn2/protected/models/BMServiceApplicationAuthItemUser.php
+END
+BMApplicationAuthItemOperation.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/65/trunk/bilyn2/protected/models/BMApplicationAuthItemOperation.php
+END
+BMServiceCircleChild.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/65/trunk/bilyn2/protected/models/BMServiceCircleChild.php
+END
+BMServiceCategory.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/65/trunk/bilyn2/protected/models/BMServiceCategory.php
+END
+BMService.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/65/trunk/bilyn2/protected/models/BMService.php
+END
+BMServiceType.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/65/trunk/bilyn2/protected/models/BMServiceType.php
+END
+BMApplication.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/65/trunk/bilyn2/protected/models/BMApplication.php
+END
+BMApplicationAuthItem.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/65/trunk/bilyn2/protected/models/BMApplicationAuthItem.php
+END
+BMServiceTeam.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/65/trunk/bilyn2/protected/models/BMServiceTeam.php
+END
+BMServiceApplicationAuthItemCircle.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/65/trunk/bilyn2/protected/models/BMServiceApplicationAuthItemCircle.php
+END
+BMApplicationAuthItemChild.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/65/trunk/bilyn2/protected/models/BMApplicationAuthItemChild.php
+END
+BMServiceTeamType.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/65/trunk/bilyn2/protected/models/BMServiceTeamType.php
+END
